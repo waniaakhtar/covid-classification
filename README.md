@@ -5,8 +5,8 @@ This is a COVID-19 classifier that uses a PyTorch trained model to classify X-ra
 ## Usage
 1. Clone the repository to your local machine.
 ```bash
-git clone https://github.com/mirabdullahyaser/COVID-Classifier.git
-cd COVID-Classifier
+git clone https://github.com/mirabdullahyaser/covid-classifier.git
+cd covid-classifier
 ```
 2. Install the required dependencies by running:
 ```bash
